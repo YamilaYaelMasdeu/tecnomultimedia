@@ -1,0 +1,7 @@
+El juego consiste en llegar a los 1500 puntos para ganar. Sólo tendrás una vida, por lo cual si el auto toca al enemigo, el jugador pierde y deberá reintentarlo presionando la e. 
+Como medio de interacción le agregué un sonido de bocina al hacer click con el mouse.
+Estaba interesada en agregarle música de fondo en el juego pero al iniciar el "juego" en la pantalla me saltaba error y automáticamente se cerraba el proccesing,
+es la primera vez que me sucede esto con la música, ya que en las entregas anteriores no tuve problema, pensé quizás se debía porque había dos archivos de música a la vez, 
+podrá ser?
+
+Le dejo mi trabajo
