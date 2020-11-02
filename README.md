@@ -13,8 +13,9 @@ textos[1][1]= "La Reina de\n las Nieves";
   textos[2][3]= "Mi nombre es Gerda, me encuentro en la casa de mi";
   textos[2][4]= "SIGUIENTE";            
 
-(La reina de las nieves e iniciar son de una misma pantalla pero ambas eran un texto distinto).
+(La reina de las nieves e iniciar son de una misma pantalla pero ambas eran un texto distinto), por ahora lo que hice fue dejar a la vista el texto que quería utilizar y tapar los resto de los textos con "//" hasta averiguar cómo resolverlo y aplicarlos, pero ya que le estoy haciendo la consulta se lo comento.
+
 Traté de avanzar lo más que pude, intenté posicionar las pantallas restantes para no
-quedarme parada en una sola parte (la del mouseClicked) y por eso están con "//" 
+quedarme parada en una sola parte (la del mouseClicked) y por eso hay pantallas que están con "//" para que solo anden las primeras dos.
 
 Disculpe las molestias.
