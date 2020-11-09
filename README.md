@@ -4,3 +4,4 @@ El juego trata de que Gerda es el personaje que corre y debe esquivar los hechiz
 (Los hechizos son las ellipses que caen encima de ella), su objetivo es hacer 200 metros de distancia para
 ganar el juego y debe mantener sus cinco vidas sino por el contrario, pierde y el juego comienza automáticamente.
 El segundo personaje presente en el juego es la Reina.
+Para moverse: usar flecha derecha e izquierda.
